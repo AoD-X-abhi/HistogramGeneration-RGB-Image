@@ -5,6 +5,10 @@ In image processing, understanding the distribution of pixel intensities in an i
 
 This project is a simple C program that reads a BMP image file, extracts its pixel data, and computes histograms for the Red, Green, and Blue (RGB) color channels. The histograms are then displayed as bar charts in the terminal, color-coded for easy visualization.
 
+## **Input Image**
+![Colour Image](HistogramGeneration-RGB-Image\images\Input Image.png)
+
+
 ## **Code Overview**
 - BMPHeader: Represents the header of the BMP file.
 - DIBHeader: Represents the DIB header, containing image dimensions and format.
