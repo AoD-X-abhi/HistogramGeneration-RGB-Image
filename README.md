@@ -1,6 +1,8 @@
 # **BMP Image Histogram Analyzer**
 
 ## **Project Overview**
+In image processing, understanding the distribution of pixel intensities in an image is crucial for tasks like contrast enhancement, image segmentation, and feature extraction. BMP (Bitmap) images are commonly used due to their simple, uncompressed format. However, analyzing the intensity distribution of BMP images, especially for large datasets, can be challenging without automation. A BMP image histogram analyzer in C is needed to address this problem by reading a BMP file, calculating the histogram of pixel intensities (frequency distribution), and providing insights into the brightness and contrast characteristics of the image.
+
 This project is a simple C program that reads a BMP image file, extracts its pixel data, and computes histograms for the Red, Green, and Blue (RGB) color channels. The histograms are then displayed as bar charts in the terminal, color-coded for easy visualization.
 
 ## **Code Overview**
