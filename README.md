@@ -6,7 +6,7 @@ In image processing, understanding the distribution of pixel intensities in an i
 This project is a simple C program that reads a BMP image file, extracts its pixel data, and computes histograms for the Red, Green, and Blue (RGB) color channels. The histograms are then displayed as bar charts in the terminal, color-coded for easy visualization.
 
 ## **Input Image**
-![Colour Image](images\Input Image.png)
+![Colour Image](https://github.com/AoD-X-abhi/HistogramGeneration-RGB-Image/blob/main/images/Input%20Image.png?raw=true)
 
 
 ## **Code Overview**
