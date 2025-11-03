@@ -33,11 +33,11 @@ Supports: **JPEG, PNG, BMP, TIFF, WebP, TGA, PSD, HDR, PIC, PNM**
 
 # Build & Run
 
-## Navigate to project root
+## 1) Navigate to project root
 cd HistogramGeneration-RGB-Image
 
-## Compile
+## 2) Compile
 gcc -O2 -std=c99 -o histogram code/RGBAnalysis.c -lm
 
-## Run with any image
+## 3) Run with any image
 ./histogram code/sample.jpg
