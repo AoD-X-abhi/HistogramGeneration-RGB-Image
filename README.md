@@ -40,4 +40,4 @@ cd HistogramGeneration-RGB-Image
 gcc -O2 -std=c99 -o histogram code/RGBAnalysis.c -lm
 
 ## 3) Run with any image
-./histogram code/sample.jpg
+.\RGBAnalysis.exe "Enter path to image"
